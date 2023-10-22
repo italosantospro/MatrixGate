@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+main {
+    margin: auto;
+    max-width: 350px;
+}
+#img-controle {
+    max-width: 929px;
+    max-height: 37px;
+    margin-left: 5px;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#titulo-principal {
+    display: inline-flex;
+}
+#secao-de-login {
+    display: grid;
+}
+.input-login {
+    height: 50px;
+    margin: 5px;
+}
+#botao-entrar {
+    margin: 5px auto;
+    height: 40px;
+    width: 100px;
+}
+#esqueci-minha-senha {
+    text-align: center;
+}
