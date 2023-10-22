@@ -6,3 +6,6 @@
 #titulo-principal {
     display: inline-flex;
 }
+#secao-de-login {
+    display: grid;
+}
